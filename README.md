@@ -15,7 +15,7 @@ npx create-expo-app -e with-router
 
 JOB APPLICATION 
 
-![Home Screen](./https://github.com/Viplavvijay/JobApp/blob/main/job%20appimg.jpg)
+![Home Screen](https://github.com/Viplavvijay/JobApp/blob/main/job%20appimg.jpg)
 ## Description
 
 This project demonstrates the use of Expo Router and custom fonts in a React Native application. It sets up a basic layout with a home screen and loads custom fonts using `expo-font`.
